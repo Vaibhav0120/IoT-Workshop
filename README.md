@@ -1,7 +1,3 @@
-Here’s the updated README file with the "Moments of the Event" section and the added requirements for the OLED display and temperature and humidity sensor:
-
----
-
 # IoT Workshop: Weather Monitoring Program
 
 ## Event Information
