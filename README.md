@@ -62,8 +62,11 @@ This workshop provided valuable insights into the real-world applications of IoT
 ---
 
 ## Moments of the Event
-- **Display Real-time Data**: The OLED display allowed us to see the temperature and humidity data in real-time, enhancing our understanding of sensor data.
-- **Engaging Activities**: The hands-on activities kept us engaged and fostered a collaborative learning environment.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3a8bf049-20a2-4f00-b2ed-c74e70cd7716" width="70%" height="70%">
+  <p align="center"><img src="https://github.com/user-attachments/assets/afdb9fd9-f466-4253-9eec-7bcd422913d0" width="40%" height="40%"></p>
+</p>
 
 #IoT #EmergingTech #Innovation #CloudComputing #ThingSpeak #HiveMQ #Arduino #TechWorkshop #LearningByDoing #iHub #IPEC
 
