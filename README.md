@@ -1,3 +1,7 @@
+Here’s the updated README file with the "Moments of the Event" section and the added requirements for the OLED display and temperature and humidity sensor:
+
+---
+
 # IoT Workshop: Weather Monitoring Program
 
 ## Event Information
@@ -24,8 +28,10 @@ This workshop has greatly enhanced my understanding of the **real-world applicat
 ## Getting Started with the Weather Monitoring Program
 
 ### Requirements
-- **ESP8266/ESP8288**: Ensure you have the appropriate driver installed. [Download Driver for Windows](https://www.pololu.com/docs/0J7/all#2)
+- **ESP8266**: Ensure you have the appropriate driver installed. [Download Driver for Windows](https://www.pololu.com/docs/0J7/all#2)
 - **Arduino IDE**: Make sure you have the latest version installed.
+- **OLED Display**: For displaying output values.
+- **Temperature and Humidity Sensor**: To collect environmental data.
 
 ### Step-by-Step Instructions
 
@@ -44,7 +50,7 @@ This workshop has greatly enhanced my understanding of the **real-world applicat
 3. **Run the Weather Monitoring Program**:
    - Open your Arduino IDE.
    - Paste the copied API Key into the program.
-   - Upload the code to your ESP8266/ESP8288.
+   - Upload the code to your ESP8266.
    - Once uploaded, the output values will be displayed on the OLED screen and sent to your ThingSpeak channel as gauge and graph.
 
 ### Useful Links
@@ -57,8 +63,11 @@ This workshop has greatly enhanced my understanding of the **real-world applicat
 
 This workshop provided valuable insights into the real-world applications of IoT, showcasing how this technology is revolutionizing data collection and usage. I highly encourage anyone interested in IoT or emerging tech to participate in such workshops.
 
+---
+
+## Moments of the Event
+- **Display Real-time Data**: The OLED display allowed us to see the temperature and humidity data in real-time, enhancing our understanding of sensor data.
+- **Engaging Activities**: The hands-on activities kept us engaged and fostered a collaborative learning environment.
+
 #IoT #EmergingTech #Innovation #CloudComputing #ThingSpeak #HiveMQ #Arduino #TechWorkshop #LearningByDoing #iHub #IPEC
 
---- 
-
-### Moments Of The Event
