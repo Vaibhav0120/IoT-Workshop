@@ -9,7 +9,7 @@ DHT dht(DHTPIN, DHTTYPE);
 OakOLED oled;
 //String apiKey ="7W20SY41EPFL8JNA"; // T&H(1-4)
 //String apiKey ="VW58O28LQVJX8IKX"; // T&H(4-8)
-String apiKey = "IIJBTD2KKMAS6F3F";  // T&H(8-12)
+String apiKey = "IIJBTD2KKMAS6F3F";  // T&H(8-12)      //Change The API KEY For Your Own
 //String apiKey ="GGKURCXNYGE4W5P4"; // T&H(12-16)
 //String apiKey="8TKQNP99GI16SSVG"; //T&H(16-20)
 //String apiKey="276Y3334RNDG3N2B";//T&H(20-24)
