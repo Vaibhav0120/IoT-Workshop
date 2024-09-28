@@ -1,7 +1,3 @@
-Here's the revised README file with expanded content in the "Event Information" section:
-
----
-
 # IoT Workshop: Weather Monitoring Program
 
 ## Event Information
