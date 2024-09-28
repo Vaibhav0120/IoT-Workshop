@@ -36,7 +36,7 @@ This workshop has greatly enhanced my understanding of the **real-world applicat
    - Create a new channel with the following fields:
      - **Field 1**: Temperature
      - **Field 2**: Humidity
-   - In the private view, add two widgets for Temperature and Humidity. Set:
+   - In the private view, add 2 Widgets for Temperature and Humidity. Set:
      - **Min Value**: 0
      - **Max Value**: 100
 
