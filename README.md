@@ -2,7 +2,7 @@
 
 ## Event Information
 
-On **Day 2** of the IoT workshop hosted by **iHUB DivyaSampark @ IIT Roorkee** at **IPEC Ghaziabad**, we delved into some of the most **cutting-edge IoT technologies**. The day was packed with hands-on activities that illustrated the real-world applications of IoT and how it’s transforming data collection and utilization.
+On **Day 2** of the IoT workshop hosted by **iHUB DivyaSampark & IIT Roorkee** at **IPEC Ghaziabad**, we delved into some of the most **cutting-edge IoT technologies**. The day was packed with hands-on activities that illustrated the real-world applications of IoT and how it’s transforming data collection and utilization.
 
 ### Key Highlights:
 - **Hands-on with MCU Boards and Arduino**: 
