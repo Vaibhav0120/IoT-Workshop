@@ -64,10 +64,10 @@ This workshop provided valuable insights into the real-world applications of IoT
 ## Moments of the Event
 
 <p align="center">
-  <p align="center"><img src="https://github.com/user-attachments/assets/afdb9fd9-f466-4253-9eec-7bcd422913d0" width="40%" height="40%"></p>
-  <p align="center"><img src="https://github.com/user-attachments/assets/afdb9fd9-f466-4253-9eec-7bcd422913d0" width="40%" height="40%"></p>
-  <p align="center"><img src="https://github.com/user-attachments/assets/afdb9fd9-f466-4253-9eec-7bcd422913d0" width="40%" height="40%"></p>
-  <p align="center"><img src="https://github.com/user-attachments/assets/afdb9fd9-f466-4253-9eec-7bcd422913d0" width="40%" height="40%"></p>
+  <p align="center"><img src="https://github.com/user-attachments/assets/e8737e2c-3045-4c21-ab96-4d9e45f92fb9" width="40%" height="40%"></p>
+  <p align="center"><img src="https://github.com/user-attachments/assets/a1775bfd-f95d-4985-a1e6-f6838f992a10" width="40%" height="40%"></p>
+  <p align="center"><img src="https://github.com/user-attachments/assets/dc56d89c-6d66-4162-9419-347a850dcd96" width="40%" height="40%"></p>
+  <p align="center"><img src="https://github.com/user-attachments/assets/66c1deb2-3f25-47f3-842a-4c0700e99a6b" width="40%" height="40%"></p>
   <img src="https://github.com/user-attachments/assets/3a8bf049-20a2-4f00-b2ed-c74e70cd7716" width="70%" height="70%">
   <img src="https://github.com/user-attachments/assets/3a8bf049-20a2-4f00-b2ed-c74e70cd7716" width="70%" height="70%">
 </p>
