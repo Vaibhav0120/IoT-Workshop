@@ -1,4 +1,4 @@
-# IoT Workshop: Weather Monitoring Program
+<h1 align="center">IoT Workshop: Weather Monitoring Program</h1>
 
 ## Event Information
 
@@ -68,8 +68,7 @@ This workshop provided valuable insights into the real-world applications of IoT
   <p align="center"><img src="https://github.com/user-attachments/assets/a1775bfd-f95d-4985-a1e6-f6838f992a10" width="40%" height="40%"></p>
   <p align="center"><img src="https://github.com/user-attachments/assets/dc56d89c-6d66-4162-9419-347a850dcd96" width="40%" height="40%"></p>
   <p align="center"><img src="https://github.com/user-attachments/assets/66c1deb2-3f25-47f3-842a-4c0700e99a6b" width="40%" height="40%"></p>
-  <img src="https://github.com/user-attachments/assets/3a8bf049-20a2-4f00-b2ed-c74e70cd7716" width="70%" height="70%">
-  <img src="https://github.com/user-attachments/assets/3a8bf049-20a2-4f00-b2ed-c74e70cd7716" width="70%" height="70%">
+  <p align="center"><img src="https://github.com/user-attachments/assets/5870199b-2547-43de-84e0-81d204e26710" width="70%" height="70%"></p>
 </p>
 
 #IoT #EmergingTech #Innovation #CloudComputing #ThingSpeak #HiveMQ #Arduino #TechWorkshop #LearningByDoing #iHub #IPEC
